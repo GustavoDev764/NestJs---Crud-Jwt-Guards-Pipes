@@ -1,0 +1,10 @@
+export enum Configuration {
+  PORT = 'PORT',
+  HOST = 'localhost',
+  USERNAME = 'USERNAME',
+  PASSWORD = 'PASSWORD',
+  DATABASE = 'DATABASE',
+  PORTDATABASE = 'PORTDATABASE',
+  TYPEDATABASE = 'TYPEDATABASE',
+  JWT_SECRET = 'JWT_SECRET',
+}
